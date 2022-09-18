@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configuration": [
+        {
+            "version": "0.2.0",
+            "congiguration": [
+                {
+                    "type": "node",
+                    "request": "lunch",
+                    "name": "Debug Nodes backend project",
+                    "skipFiles": ["<note_internals>/**"],
+                    "program": "${workspaceFolder}\\server.js" 
+                }
+            ]
+        }
+    ]
+}

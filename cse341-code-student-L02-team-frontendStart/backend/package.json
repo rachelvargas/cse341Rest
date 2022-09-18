@@ -1,0 +1,15 @@
+{
+  "name": "cse341-code-student-l02-team-frontendstart",
+  "version": "1.0.0",
+  "description": "\"team code\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rachel Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
