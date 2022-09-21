@@ -1,14 +1,22 @@
 {
-  "name": "cse341-code-student-l02-team-frontendstart",
+  "name": "cse341rest",
   "version": "1.0.0",
-  "description": "\"team code\"",
+  "description": "code fixing",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelvargas/cse341Rest.git"
+  },
   "author": "Rachel Vargas",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelvargas/cse341Rest/issues"
+  },
+  "homepage": "https://github.com/rachelvargas/cse341Rest#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
